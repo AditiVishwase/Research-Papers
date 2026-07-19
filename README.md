@@ -16,25 +16,6 @@ The purpose of this repository is to build a strong research foundation, stay up
 
 ---
 
-## 📂 Repository Structure
-
-```
-Research-Papers/
-│
-├── Artificial Intelligence/
-├── Machine Learning/
-├── Deep Learning/
-├── Computer Vision/
-├── Natural Language Processing/
-├── Robotics/
-├── Reinforcement Learning/
-├── Generative AI/
-├── Data Science/
-├── Internet of Things (IoT)/
-└── Miscellaneous/
-```
-
----
 
 ## 📖 Topics Covered
 
