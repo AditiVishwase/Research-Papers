@@ -1,4 +1,4 @@
-# 📚 AI/ML & Robotics Research Papers Repository
+# 📚 AI/ML Research Papers Repository
 
 Welcome to my Research Papers Repository! This repository is a curated collection of influential and recent research papers in Artificial Intelligence, Machine Learning, Deep Learning, Robotics, Computer Vision, Natural Language Processing, Data Science, and related fields.
 
